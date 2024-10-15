@@ -75,7 +75,7 @@ If you have any questions, please check [our FAQs](faq.md).
 
 ## Issues and Feedback
 
-Please raise all issues and feedback on GitHub at [uklans/cache-domains](https://github.com/uklans/cache-domains/issues).
+Please raise all issues and feedback on GitHub at [mrghanadi/cache-Domain](https://github.com/mrghanadi/cache-Domain/issues).
 
 ## Useful Information
 
