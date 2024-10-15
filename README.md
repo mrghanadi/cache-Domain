@@ -79,8 +79,7 @@ Please raise all issues and feedback on GitHub at [mrghanadi/cache-Domain](https
 
 ## Useful Information
 
-There are a few useful anecdotes on cache domains usage in some old issues https://github.com/uklans/cache-domains/issues?q=is%3Aissue+is%3Aclosed+label%3Afor-reference-only
-
+There are a few useful anecdotes on cache domains usage in some old issues [https://github.com/mrghanadi/cache-Domain/issues]
 ## License
 
 The MIT License (MIT)
