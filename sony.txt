@@ -1,11 +1,15 @@
 gs2.ww.prod.dl.playstation.net
 *.gs2.ww.prod.dl.playstation.net
 *.gs2.sonycoment.loris-e.llnwd.net
+*.sonycoment.loris-e.llnwd.net
 gs2-ww-prod.psn.akadns.net
 *.gs2-ww-prod.psn.akadns.net
+*.dl.playstation.net.edgesuite.net
 gs2.ww.prod.dl.playstation.net.edgesuite.net
 *.gs2.ww.prod.dl.playstation.net.edgesuite.net
+*.update.playstation.org.edgesuite.net
 playstation4.sony.akadns.net
+*.ps4.update.playstation.net
 theia.dl.playstation.net
 tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
@@ -14,3 +18,7 @@ gst.prod.dl.playstation.net
 vulcan.dl.playstation.net
 sgst.prod.dl.playstation.net
 psnobj.prod.dl.playstation.net
+*.update.playstation.org.edgesuite.net
+*.playstation.net.edgekey.net
+*.community.playstation.net
+*.dl.playstation.net
